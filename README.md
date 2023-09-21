@@ -40,3 +40,9 @@ git commit -m "Feat: adicionando arquivo com meu nome"
 ```shell
 git push origin dev
 ```
+
+## Passo 9: Usar o git pull
+
+```shell
+git pull origin dev
+```
